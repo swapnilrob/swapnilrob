@@ -17,8 +17,9 @@ MySQL, TensorFlow, Scikit-learn, HTML, CSS
 
 ## 📫 Contact
 
+📧 [swapnilrob.27@gmail.com](mailto:swapnilrob.27@gmail.com)
 📧 [swapnil.rob@g.bracu.ac.bd](mailto:swapnil.rob@g.bracu.ac.bd)
-🔗 https://github.com/swapnilrob
+
 
 ---
 
