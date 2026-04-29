@@ -1,9 +1,25 @@
-- 👋 Hi, I’m @swapnilrob
+# 👋 Hi, I'm Swapnil Rob
 
-- 📫 reach me swapnilrob.27@gmail.com
+CSE Student at **BRAC University**
+Interested in **Software Development, Systems, and Machine Learning**
 
+---
 
-<!---
-swapnilrob/swapnilrob is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+##  Skills
+
+**Languages:**
+Python, C, PHP, JavaScript, Assembly (8086)
+
+**Technologies & Tools:**
+MySQL, TensorFlow, Scikit-learn, HTML, CSS
+
+---
+
+## 📫 Contact
+
+📧 [swapnil.rob@g.bracu.ac.bd](mailto:swapnil.rob@g.bracu.ac.bd)
+🔗 https://github.com/swapnilrob
+
+---
+
+Open to learning and collaboration
