@@ -1,96 +1,66 @@
-# 👋 Hi, I'm Swapnil Rob
+<div align="center">
 
-### CSE Student @ BRAC University | LLM & Cybersecurity Research | Full-Stack MERN Developer
+# Hi, I'm Swapnil Rob
 
-I'm a final-year **Computer Science & Engineering student at BRAC University** with interests in **Artificial Intelligence, Large Language Models, Cybersecurity, and Software Engineering**.
+**CSE @ BRAC University · LLM & Cybersecurity Research · Full-Stack Developer**
 
-I enjoy building practical software systems, exploring research problems, reading research papers, and turning ideas into working solutions.
+Building AI systems that detect what other AI systems get wrong.
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swapnilrob)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:swapnilrob.27@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/swapnilrob)
 
-## 🔬 Research Interests
-
-- 🤖 Large Language Models (LLMs)
-- 🧠 Artificial Intelligence & Machine Learning
-- 🔎 Retrieval-Augmented Generation (RAG)
-- 🛡️ Cybersecurity & Cyber Threat Intelligence
-- 👁️ Multimodal AI & Computer Vision
-- 📊 AI Reliability, Factuality & Hallucination Detection
+</div>
 
 ---
 
-## 💻 Technical Skills
+### About
 
-### Languages
-`Python` · `JavaScript` · `C` · `PHP` · `SQL` · `Assembly (8086)`
+Final-year Computer Science & Engineering student at BRAC University. My work sits at the intersection of **AI reliability**, **multimodal reasoning**, and **cybersecurity** — with a focus on building systems that verify, not just generate.
 
-### Development
-`React` · `Node.js` · `Express.js` · `MongoDB` · `MySQL` · `HTML` · `CSS`
-
-### AI / ML
-`TensorFlow` · `Scikit-learn` · `Deep Learning` · `LLMs` · `RAG`
-
-### Tools & Technologies
-`Git` · `GitHub` · `Linux` · `Jupyter Notebook` · `MySQL` · `MongoDB`
+Currently writing my undergraduate thesis on **LLM-guided hallucination detection in radiology reports**, and researching **provenance-aware RAG for cyber threat intelligence**.
 
 ---
 
-## 🚀 Featured Projects
+### Featured Projects
 
-### 🧠 AI & Machine Learning
-Projects involving machine learning, deep learning, computer vision, and AI-powered applications.
-
-### 🛡️ Cybersecurity & RAG Research
-Exploring **Retrieval-Augmented Generation for Cyber Threat Intelligence**, with a focus on temporal information, provenance, conflicting claims, and reliable knowledge retrieval.
-
-### 🏥 Multimodal Medical AI
-Working on an AI research project focused on **radiology report consistency and hallucination detection** using multimodal learning and LLM-based approaches.
-
-### 🌐 Full-Stack Applications
-Building web applications using the **MERN stack**, along with academic and personal software projects.
+| Project | What It Does | Stack |
+|---|---|---|
+| [**Radiology Hallucination Detection**](https://github.com/swapnilrob/LLM-Guided-Multimodal-Radiology-Report-Consistency-and-Hallucination-Detection) | Cross-checks AI-generated radiology reports against chest X-ray images to catch hallucinated findings — 4-stage pipeline with claim extraction, multimodal verification, consistency checking, and auto-correction | React · Express · FastAPI · OpenRouter · MongoDB · Cloudinary |
+| [**Ki Khabo**](https://github.com/swapnilrob/ki-khabo) | AI-powered food platform for Dhaka — restaurant discovery via Google Maps, Groq-powered nutrition assistant, food image recognition, smart meal planner, Stripe subscriptions, reward points · [Live](https://ki-khabo-pi.vercel.app) | React 19 · Express 5 · MongoDB · Groq · Stripe |
+| [**Predictive Maintenance Tracker**](https://github.com/swapnilrob/Predictive-Maintenance-Tracker-for-Engineering-Labs) | Lab equipment management system with a risk-scoring prediction engine that flags machines likely to fail — 10-table normalized schema, role-based access, JSON API polling dashboard | PHP · MySQL · PDO · JavaScript |
+| [**Academic Success Prediction**](https://github.com/swapnilrob/Academic-success-prediction) | ML pipeline comparing Logistic Regression, Random Forest, SVM, and a TensorFlow neural network on student outcome prediction — best model: LR with Macro AUC 0.641 | Python · scikit-learn · TensorFlow · Jupyter |
+| [**Process Manager Simulator**](https://github.com/swapnilrob/multithreaded-process-manager-simulator) | Multithreaded OS process lifecycle simulator with PCB state tracking, layered mutex locking, and 4-state transitions — all in pure C with POSIX threads | C · pthreads · POSIX |
 
 ---
 
-## 📚 Currently Learning
+### Tech
 
-- Advanced LLM architectures
-- Retrieval-Augmented Generation
-- AI agents and knowledge systems
-- Cybersecurity
-- Deep Learning
-- Research methodology
-- Full-stack application development
+**Languages** — Python · JavaScript · C · PHP · SQL · Assembly (8086) · Verilog
 
----
+**Web** — React · Node.js · Express · FastAPI · MongoDB · MySQL · Tailwind CSS
 
-## 🎯 Goals
+**AI / ML** — TensorFlow · scikit-learn · LLMs · RAG · Multimodal AI · OpenRouter · Groq
 
-I'm currently focused on:
-
-- Building a strong **AI/ML research profile**
-- Contributing to **research publications**
-- Developing reliable and useful AI systems
-- Improving my software engineering skills
-- Preparing for **graduate study and research**
+**Tools** — Git · Linux · Jupyter · Cisco Packet Tracer
 
 ---
 
-## 📫 Connect With Me
+### GitHub Stats
 
-<p align="left">
-  <a href="mailto:swapnilrob.27@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/swapnilrob">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/swapnilrob">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
+<div align="center">
 
-📧 **Email:** [swapnilrob.27@gmail.com](mailto:swapnilrob.27@gmail.com)
+<img src="https://github-readme-stats.vercel.app/api?username=swapnilrob&show_icons=true&theme=default&hide_border=true&count_private=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swapnilrob&layout=compact&theme=default&hide_border=true" height="165" />
+
+</div>
 
 ---
 
-> **Research • Build • Learn**
+### Other Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [Morse Code Translator](https://github.com/swapnilrob/morse-code-translator) | Full encoder/decoder in 8086 Assembly with binary decision tree | 8086 Assembly · EMU8086 |
+| [Defenders of the Hawkins](https://github.com/swapnilrob/Defenders-of-the-Hawkins) | Stranger Things–themed 3D arena shooter built with raw OpenGL | Python · PyOpenGL · GLUT |
+| [Smart Healthcare Network](https://github.com/swapnilrob/smart-healthcare-network-design) | Hospital network design — VLSM subnetting, RIPv2, static routing, DHCP | Cisco Packet Tracer |
