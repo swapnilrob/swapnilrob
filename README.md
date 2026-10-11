@@ -61,6 +61,7 @@ Currently writing my undergraduate thesis on **LLM-guided hallucination detectio
 
 | Project | Description | Stack |
 |---|---|---|
+| [Digital Legacy](https://github.com/Shakib-Al-Hossain/Digital-Legacy) | Encrypted family memory vault — AES-256 storage, role-based access, family tree visualization, time-capsule features | React · Express · MongoDB · JWT |
 | [Morse Code Translator](https://github.com/swapnilrob/morse-code-translator) | Full encoder/decoder in 8086 Assembly with binary decision tree | 8086 Assembly · EMU8086 |
 | [Defenders of the Hawkins](https://github.com/swapnilrob/Defenders-of-the-Hawkins) | Stranger Things–themed 3D arena shooter built with raw OpenGL | Python · PyOpenGL · GLUT |
 | [Smart Healthcare Network](https://github.com/swapnilrob/smart-healthcare-network-design) | Hospital network design — VLSM subnetting, RIPv2, static routing, DHCP | Cisco Packet Tracer |
